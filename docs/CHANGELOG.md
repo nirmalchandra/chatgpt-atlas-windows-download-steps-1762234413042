@@ -1,0 +1,5 @@
+# Changelog
+
+## 2025-11-04T12:27:09.334Z
+
+- Various improvements and updates
